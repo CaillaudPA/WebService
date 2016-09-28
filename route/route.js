@@ -17,7 +17,7 @@ routes.post('/', urlencodedParser,function (req, res) {
 });
 
 routes.get('/accueil', function (req, res) {
-  res.send('PAGE POUR LES TWEETS SAUVER !!!');
+  res.send('PAGE LISTE TWEETS !!!');
 });
 
 routes.get('/TweetSave', function (req, res) {
