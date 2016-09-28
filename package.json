@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CaillaudPA/WebService#readme",
   "dependencies": {
-    "ejs": "^2.5.2"
+    "ejs": "^2.5.2",
+    "passport": "^0.3.2"
   }
 }
