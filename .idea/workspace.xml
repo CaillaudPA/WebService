@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5419528-67ce-40cf-836f-5c77af20a3cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/footer.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/header.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/homepage.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/route/route.js" afterPath="$PROJECT_DIR$/route/route.js" />
@@ -30,18 +30,18 @@
       <file leaf-file-name="route.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/route/route.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-46">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="22">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="264">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -67,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/footer.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -90,8 +90,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/accueil.ejs" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -520,22 +520,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/route/route.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/accueil.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -556,6 +540,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/route/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
           <folding />
         </state>
       </provider>
